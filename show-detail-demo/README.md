@@ -1,0 +1,3 @@
+# Show Detail demo
+
+demo
